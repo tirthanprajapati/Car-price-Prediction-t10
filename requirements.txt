@@ -1,5 +1,5 @@
 1. numpy
-2.pandas
+2. pandas
 3. seaborn
-4.xgboost
-5.scikit-learn
+4. xgboost
+5. scikit-learn
