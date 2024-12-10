@@ -1,5 +1,5 @@
-streamlit
+numpy 
 pandas
-numpy
-xgboost==1.6.2
-scikit-learn==1.0.2
+seaborn
+xgboost
+scikit-learn
