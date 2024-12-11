@@ -1,5 +1,7 @@
 numpy 
-pandas
 seaborn
-xgboost
+streamlit
+pandas
+xgboost==1.5.0 
 scikit-learn
+setuptools
